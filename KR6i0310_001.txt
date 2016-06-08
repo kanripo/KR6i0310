@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:11.328574
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:38
 #+TITLE: 金光明經玄義科
 #+PROPERTY: CBETA_ID X20n0355
 #+PROPERTY: ID KR6i0310
