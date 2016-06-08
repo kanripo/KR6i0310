@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:11.328574
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:38
 #+TITLE: 金光明經玄義科
 #+PROPERTY: CBETA_ID X20n0355
 #+PROPERTY: ID KR6i0310
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 20, No. 355
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0310_X_001-0016a> 
 #+PROPERTY: JUAN 1
-No.355¶
-
- 金光明經玄義科¶
+No. 355¶
+金光明經玄義科¶
 雙經沙門　明得排定¶
 ¶
 
@@ -233,7 +232,7 @@ No.355¶
   * 二釋德(三)¶
   
   * 初明法身四德(云何)¶
-  * 二明般若四德(般若)¶
+  * 二明般若四德(般苦)¶
   * 三明解脫四德(解脫)¶
   * 三引證體圓(大經)¶
   * 四結前生後(若得)¶
@@ -758,7 +757,7 @@ No.355¶
   * 二結意(若不)¶
 ¶
 
-△別名已竟。¶
+△別名巳竟。¶
 ¶
 
   
@@ -905,7 +904,7 @@ No.355¶
   * 三明五義俱備(體題)¶
   * 二明二品互具(但懺)¶
   * 二明空品一文(空品)¶
-  * 三明已下諸文(四王)¶
+  * 三明巳下諸文(四王)¶
   * 三牒文結攝(攝此)¶
 ¶
 
